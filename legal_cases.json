@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Smith vs. Johnson",
+    "jurisdiction": "New York, USA",
+    "summary": "Dispute over landlord refusing to return security deposit.",
+    "link": "https://www.courtlistener.com/opinion/12345/smith-vs-johnson/"
+  },
+  {
+    "title": "Khan vs. Malik",
+    "jurisdiction": "Lahore, Pakistan",
+    "summary": "Tenant sued landlord for unfair rent increase.",
+    "link": "https://pakistanlaw.org/case/khan-vs-malik"
+  }
+]
